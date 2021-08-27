@@ -1,5 +1,5 @@
 
-Online Book Store Application
+**Online Book Store Application**
 
 Online Book Store Application will manage the order for purchase, availability of items and user registration. All the users can login and purchase and view their past orders and current. The admin can log in and view all user purchase and the failed orders and reason.
 
